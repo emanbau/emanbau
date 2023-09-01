@@ -14,8 +14,7 @@ I'm an Undergrad Student 🎓 @ The University of Maryland pursuing CMSC. I'm pa
 <h4>I'm currently...</h4>
   
 - 💼 A Summer 2023 SDE Intern @AWS
-- 🍏 Writing a curriculum for a student taught course on React
-- Working on...
+- 🍏 Working on...
   - 🖥️ Web app development
   - 📱 Mobile app development
   - 📊 AI & Data Science
