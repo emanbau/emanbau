@@ -13,7 +13,7 @@
 I'm an Undergrad Student 🎓 @ The University of Maryland pursuing CMSC. I'm passionate about learning and working with new ideas and technology. I love meeting new people, making new things, and questioning why things around me are the way they are. <br/><br/>
 <h4>I'm currently...</h4>
   
-- 💼 A Summer 2023 SDE Intern @AWS
+- 💼 A Summer 2024 SDE Intern @AWS
 - 🍏 Working on...
   - 🖥️ Web app development
   - 📱 Mobile app development
