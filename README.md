@@ -13,13 +13,14 @@
 I'm an Undergrad Student 🎓 @ The University of Maryland pursuing CMSC. I'm passionate about learning and working with new ideas and technology. I love meeting new people, making new things, and trying out different things (especially food). <br/><br/>
 <h4>I'm currently...</h4>
   
+- 🔋 Co-founder @ByteBabel
 - 💼 Incoming SDE @AWS
 - 🍏 Working on...
-  - 🖥️ Web app development
-  - 📱 Mobile app development
   - 📊 ML/AI
   - 📚 LLM
   - 👀 Computer Vision
+  - 🖥️ Web app development
+  - 📱 Mobile app development
   
 <br/><br/>
   
