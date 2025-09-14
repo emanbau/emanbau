@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emanbautista410@gmail.com)](mailto:emanbautista410@gmail.com)
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" alt="Astronaut" width="30" height=30" /> A bit about me... </h3>
-I'm an Undergrad Student 🎓 @ The University of Maryland pursuing CMSC. I'm passionate about learning and working with new ideas and technology. I love meeting new people, making new things, and trying out different things (especially food). <br/><br/>
+I'm a graduate 🎓 from The University of Maryland with a degree in Computer Science. I love meeting new people, making new things, and trying out different things (especially food). <br/><br/>
 <h4>I'm currently...</h4>
   
 - 💼 SDE @AWS
