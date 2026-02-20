@@ -15,13 +15,9 @@ I'm a graduate 🎓 from The University of Maryland with a degree in Computer Sc
   
 - 💼 SDE @AWS
 - 🍏 Working on...
-  - 👀 Computer Vision
-  - 🖥️ Web app development
+  - 👀 Agentic workflow development
   - 📱 Mobile app development
+  - 📈 Trading
+  - 🧥 Fashion Design
   
 <br/><br/>
-  
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanbau&show_icons=true&theme=nightowl)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanbau&theme=nightowl)
